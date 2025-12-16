@@ -1,0 +1,1 @@
+municacion directa entre eAgroConncet es una plataforma interactiva y moderna estilo marketplace que permite un comercio justo y una relacion directa entre empesario (consumidor) y un campesino (vendedor). Permitiendo una comunicaciion constante entre ambos. AgroConnect permite la compra y la venta de producots del campo.
